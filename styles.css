@@ -1,0 +1,14 @@
+* {
+    font-family: verdana, sans-serif;
+    color: gray;
+    background: linen;
+}
+
+h1 {
+    text-align:center;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
